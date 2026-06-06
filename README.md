@@ -63,7 +63,7 @@ Several limitations should be considered when interpreting the results:
 - The analysis focuses on binary classification and does not consider more nuanced sentiment or helpfulness levels.
 - Results may not generalise to reviews from different domains or platforms.
 
-**FUTURE WORK - **
+**FUTURE WORK -**
 
 Potential extensions of this project include:
 - Evaluating additional classification algorithms and ensemble methods.
@@ -71,6 +71,3 @@ Potential extensions of this project include:
 - Investigating explainable AI methods to better understand model predictions.
 - Including metadata features beyond review text to improve helpfulness prediction.
 - Applying the methodology to reviews from multiple product categories and platforms.
-
-
-Machine Learning • Natural Language Processing • Data Analytics
